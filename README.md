@@ -11,7 +11,7 @@ O modelo contempla os principais elementos de um ambiente de **E-commerce**, inc
 
 Além disso, foram aplicados refinamentos solicitados no desafio:
 - **Cliente PJ e PF** → Um cliente pode ser Pessoa Física **ou** Pessoa Jurídica, nunca os dois ao mesmo tempo.  
-- **Pagamento** → Pode ter cadastrada mais de uma forma de pagamento (ex.: Boleto, Cartão, Dois Cartões).  
+- **Pagamento** → Pode ter cadastrada mais de uma forma de pagamento. 
 - **Entrega** → Possui status e código de rastreio associados ao pedido.  
 
 ---
